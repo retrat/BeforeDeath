@@ -10,8 +10,6 @@
 
 <img src="https://img.shields.io/badge/made%20by-silentlad-blue.svg" >
 
-<img src="https://img.shields.io/badge/vue-2.2.4-green.svg">
-
 <img src="https://img.shields.io/github/stars/silent-lad/VueSolitaire.svg?style=flat">
 
 <img src="https://img.shields.io/github/languages/top/silent-lad/VueSolitaire.svg">
